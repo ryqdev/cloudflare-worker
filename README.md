@@ -1,5 +1,7 @@
 # cloudflare-worker
 
+![image](https://github.com/user-attachments/assets/b960e21e-c620-4deb-a50b-36b2be61eaad)
+
 ## Install cloudflare
 ```shell
 pnpm create cloudflare
